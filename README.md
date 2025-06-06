@@ -1,4 +1,4 @@
-# 水文工程计算工具集 (Hydrological Engineering Computing Toolkit)
+# 水文工程计算工具集
 
 ## 项目内容
 
