@@ -28,9 +28,6 @@
    ./difference_equation
    ```
 
-### Visual Basic 程序
-1. 使用 Visual Studio 或其他支持 VB 的 IDE 打开文件
-2. 直接运行或编译后运行
 
 ## 许可证
 MIT License
